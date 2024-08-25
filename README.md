@@ -25,5 +25,7 @@
 
 <h3 align="left">Languages:</h3>
 - Español
+
 - Inglés
+
 - Catalán
