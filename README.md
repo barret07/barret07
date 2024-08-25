@@ -1,5 +1,4 @@
 <h1 align="left">I'm Lery Benavides</h1>
-<h3 align="center">Data Scientist & Electronic Engineer with robust experience in engineering and management of highly complex projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barret07&label=Profile%20views&color=0e75b6&style=flat" alt="barret07" /> </p>
 
